@@ -1,4 +1,4 @@
-# **AI Aggregator: OpenAI & Gemini Integration**
+# **Introduction**
 
 This project combines OpenAI's API and Google's Gemini API to offer an interface for interacting with both AI models. It allows users to chat with GPT-4 and Gemini, as well as transcribe audio files using OpenAI's Whisper model, all within a simple Streamlit web app.
 
